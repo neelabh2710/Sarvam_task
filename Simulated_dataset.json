@@ -10,7 +10,7 @@
     },
     {
       "role": "assistant",
-      "content": "I can search for DevOps jobs in Noida and set a reminder for Apple. For the meeting with harsh@gmail.com, could you please provide the date and time?",
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_0_1",
@@ -58,7 +58,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_1_1",
@@ -92,7 +92,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_2_1",
@@ -126,7 +126,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_3_1",
@@ -160,7 +160,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_4_1",
@@ -194,7 +194,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_5_1",
@@ -284,7 +284,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_meeting_10_1",
@@ -318,7 +318,7 @@
     },
     {
       "role": "assistant",
-      "content": "I can search for React roles in Hyderabad for you. However, I'm not able to apply for jobs directly. For the follow-up, could you specify which company you'd like to set a reminder for?",
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_11_1",
@@ -352,7 +352,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_reminder_12_1",
@@ -414,7 +414,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_15_1",
@@ -476,7 +476,7 @@
     },
     {
       "role": "assistant",
-      "content": null,
+      "content": "",
       "tool_calls": [
         {
           "id": "call_search_17_1",
